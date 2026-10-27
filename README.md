@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SimpleFIN Bridge is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.simplefin.org/
+SimpleFIN Bridge provides a read‑only financial data interchange protocol that enables applications to access banking information without requiring users to share credentials. Acting as a “window on a safe,” SimpleFIN lets users grant view‑only access to their financial accounts, supporting both Protocol v1 and v2. The service is open, free to use, and aims to become an RSS‑style standard for financial data aggregation, promoting security and user control across the banking ecosystem.
+
+**Areas:** Company · Finance · API · Open-Source · Data
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.simplefin.org/)
+- [Documentation](https://www.simplefin.org/)
+- [Getting started](https://www.simplefin.org/ecosystem.html)
+- [API reference](https://www.simplefin.org/protocol.html)
+- [Pricing](https://www.simplefin.org/CHANGELOG.html)
+- [Support](https://www.simplefin.org/)
+- [Blog](https://www.simplefin.org/)
+- [GitHub](https://github.com/simplefin)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/simplefin/](https://apis.io/providers/simplefin/).
